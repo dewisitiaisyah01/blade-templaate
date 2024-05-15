@@ -70,7 +70,7 @@
           <li class="active ">
             <a href="dasboard">
               <i class="tim-icons icon-chart-pie-36"></i>
-              <p>Dahboard</p>
+              <p>Dasboard</p>
             </a>
           </li>
           <li>
